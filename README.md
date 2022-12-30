@@ -2,4 +2,4 @@
 
 ## Projet collaboratif
 
-### A Ajouter gitignore
+### A Ajouter `.gitignore`
